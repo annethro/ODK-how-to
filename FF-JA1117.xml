@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>FF-JA1117</h:title>
+    <model>
+      <itext>
+        <translation lang="English">
+          <text id="/FF-JA1117/gps_initial:label">
+            <value>Take GPS point.</value>
+          </text>
+          <text id="/FF-JA1117/sex/1:label">
+            <value>Male</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m_other:label">
+            <value>Specify other:</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f/direct_care:label">
+            <value>Direct care</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f/sleep:label">
+            <value>Sleeping</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f/other:label">
+            <value>Other</value>
+          </text>
+          <text id="/FF-JA1117/sex/0:label">
+            <value>Female</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1/other:label">
+            <value>Other</value>
+          </text>
+          <text id="/FF-JA1117/pid:jr:constraintMsg">
+            <value>ID must be 6 characters long</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f/eat:label">
+            <value>Eating</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/fish_type/other:label">
+            <value>Other</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/fish_type/net:label">
+            <value>Net</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1/play:label">
+            <value>Playing</value>
+          </text>
+          <text id="/FF-JA1117/name_check:label">
+            <value>CHECK: is this the right name? If not, double-check PID. <output value=" /FF-JA1117/name_pull "/></value></text>
+          <text id="/FF-JA1117/sex:label">
+            <value>Participant sex</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/fish_type/hook:label">
+            <value>Hook and line</value>
+          </text>
+          <text id="/FF-JA1117/pid:label">
+            <value>Participant ID</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group:label">
+            <value>Female focal</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f_other:label">
+            <value>Specify other:</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1/eat:label">
+            <value>Eating</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1/sleep:label">
+            <value>Sleeping</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1:label">
+            <value>Which things is he doing?</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/new_gps_needed:label">
+            <value>Change in location since last time point?</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/fish_type:label">
+            <value>Which kind of fishing is he doing?</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group:label">
+            <value>Male focal</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f/play:label">
+            <value>Playing</value>
+          </text>
+          <text id="/FF-JA1117/consent:label">
+            <value>I give my consent to participate.</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/new_gps_needed/yes:label">
+            <value>Yes</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f:label">
+            <value>Which things is she doing?</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1/fish:label">
+            <value>Fishing</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow:label">
+            <value>Focal follow</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/reminder:label">
+            <value>Do not advance page until ready to mark next time stamp!</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/gps_obs:label">
+            <value>Take GPS point.</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/new_gps_needed/no:label">
+            <value>No</value>
+          </text>
+        </translation>
+        <translation lang="Espanol">
+          <text id="/FF-JA1117/gps_initial:label">
+            <value>Marca la ubicacion con GPS</value>
+          </text>
+          <text id="/FF-JA1117/sex/1:label">
+            <value>Masculino</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m_other:label">
+            <value>Indica otro:</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f/direct_care:label">
+            <value>Cuidando</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f/sleep:label">
+            <value>Durmiendo</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f/other:label">
+            <value>Otro</value>
+          </text>
+          <text id="/FF-JA1117/sex/0:label">
+            <value>Feminino</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1/other:label">
+            <value>Otro</value>
+          </text>
+          <text id="/FF-JA1117/pid:jr:constraintMsg">
+            <value>ID debe ser 6 caracteres de larga.</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f/eat:label">
+            <value>Comiendo</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/fish_type/other:label">
+            <value>Otro</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/fish_type/net:label">
+            <value>Cesta</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1/play:label">
+            <value>Jugando</value>
+          </text>
+          <text id="/FF-JA1117/name_check:label">
+            <value>AVERIGUAR: es este nombre correcto? Si no, hay que averiguar el PID otra vez. <output value=" /FF-JA1117/name_pull "/></value></text>
+          <text id="/FF-JA1117/sex:label">
+            <value>Sexo del participe</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/fish_type/hook:label">
+            <value>Ancha con linea</value>
+          </text>
+          <text id="/FF-JA1117/pid:label">
+            <value>ID de participe</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group:label">
+            <value>Feminino</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f_other:label">
+            <value>Indica otro:</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1/eat:label">
+            <value>Comiendo</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1/sleep:label">
+            <value>Durmiendo</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1:label">
+            <value>Cuales cosas hace?</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/new_gps_needed:label">
+            <value>Ha cambiado la ubicacion desde la ultima punta?</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/fish_type:label">
+            <value>Que tipo de pescar hace?</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group:label">
+            <value>Macho</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f/play:label">
+            <value>Jugando</value>
+          </text>
+          <text id="/FF-JA1117/consent:label">
+            <value>Doy mi consentimiento de participar.</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/new_gps_needed/yes:label">
+            <value>Si</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/female_group/things_doing_f:label">
+            <value>Cuales cosas hace?</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/male_group/things_doing_m1/fish:label">
+            <value>Pescando</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow:label">
+            <value>Seguimiento del focal</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/reminder:label">
+            <value>No siga hasta cuando estas listo para marcar la proxima observacion!</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/gps_obs:label">
+            <value>Marca la ubicacion con GPS</value>
+          </text>
+          <text id="/FF-JA1117/repeat_follow/new_gps_needed/no:label">
+            <value>No</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <FF-JA1117 id="FF-JA1117">
+          <start_consent/>
+          <consent/>
+          <pid/>
+          <name_pull/>
+          <name_check/>
+          <sex/>
+          <sex_other/>
+          <gps_initial/>
+          <repeat_follow jr:template="">
+            <start_obs/>
+            <new_gps_needed/>
+            <gps_obs/>
+            <male_group>
+              <things_doing_m1/>
+              <fish_type/>
+              <things_doing_m_other/>
+            </male_group>
+            <female_group>
+              <things_doing_f/>
+              <things_doing_f_other/>
+            </female_group>
+            <reminder/>
+          </repeat_follow>
+          <meta>
+            <instanceID/>
+            <instanceName/>
+          </meta>
+        </FF-JA1117>
+      </instance>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/FF-JA1117/start_consent" type="dateTime"/>
+      <bind nodeset="/FF-JA1117/consent" type="binary"/>
+      <bind constraint="string-length(.)=6" jr:constraintMsg="jr:itext('/FF-JA1117/pid:jr:constraintMsg')" nodeset="/FF-JA1117/pid" type="string"/>
+      <bind calculate="pulldata('IDs','name','pid_key', /FF-JA1117/pid )" nodeset="/FF-JA1117/name_pull" type="string"/>
+      <bind nodeset="/FF-JA1117/name_check" readonly="true()" type="string"/>
+      <bind nodeset="/FF-JA1117/sex" type="select1"/>
+      <bind nodeset="/FF-JA1117/sex_other" relevant="selected(../sex, 'other')" type="string"/>
+      <bind nodeset="/FF-JA1117/gps_initial" type="geopoint"/>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/FF-JA1117/repeat_follow/start_obs" type="dateTime"/>
+      <bind nodeset="/FF-JA1117/repeat_follow/new_gps_needed" type="select1"/>
+      <bind nodeset="/FF-JA1117/repeat_follow/gps_obs" relevant=" /FF-JA1117/repeat_follow/new_gps_needed ='yes'" type="geopoint"/>
+      <bind nodeset="/FF-JA1117/repeat_follow/male_group" relevant=" /FF-JA1117/sex ='1'"/>
+      <bind nodeset="/FF-JA1117/repeat_follow/male_group/things_doing_m1" type="select"/>
+      <bind nodeset="/FF-JA1117/repeat_follow/male_group/fish_type" relevant="selected( /FF-JA1117/repeat_follow/male_group/things_doing_m1 ,'fish')" type="select1"/>
+      <bind nodeset="/FF-JA1117/repeat_follow/male_group/things_doing_m_other" relevant="selected( /FF-JA1117/repeat_follow/male_group/things_doing_m1 ,'other')" type="string"/>
+      <bind nodeset="/FF-JA1117/repeat_follow/female_group" relevant=" /FF-JA1117/sex ='0'"/>
+      <bind nodeset="/FF-JA1117/repeat_follow/female_group/things_doing_f" type="select"/>
+      <bind nodeset="/FF-JA1117/repeat_follow/female_group/things_doing_f_other" relevant="selected( /FF-JA1117/repeat_follow/female_group/things_doing_f ,'other')" type="string"/>
+      <bind nodeset="/FF-JA1117/repeat_follow/reminder" readonly="true()" type="string"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/FF-JA1117/meta/instanceID" readonly="true()" type="string"/>
+      <bind calculate="concat( /FF-JA1117/pid ,'-', /FF-JA1117/start_consent )" nodeset="/FF-JA1117/meta/instanceName" type="string"/>
+    </model>
+  </h:head>
+  <h:body class="pages">
+    <upload appearance="signature" mediatype="image/*" ref="/FF-JA1117/consent">
+      <label ref="jr:itext('/FF-JA1117/consent:label')"/>
+    </upload>
+    <input ref="/FF-JA1117/pid">
+      <label ref="jr:itext('/FF-JA1117/pid:label')"/>
+    </input>
+    <input ref="/FF-JA1117/name_check">
+      <label ref="jr:itext('/FF-JA1117/name_check:label')"/>
+    </input>
+    <select1 ref="/FF-JA1117/sex">
+      <label ref="jr:itext('/FF-JA1117/sex:label')"/>
+      <hint>Pregunta al participe sobre su identidad sexual.</hint>
+      <item>
+        <label ref="jr:itext('/FF-JA1117/sex/0:label')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/FF-JA1117/sex/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label>Other</label>
+        <value>other</value>
+      </item>
+    </select1>
+    <input ref="/FF-JA1117/sex_other">
+      <label>Specify other.</label>
+    </input>
+    <input accuracyThreshold="10" ref="/FF-JA1117/gps_initial">
+      <label ref="jr:itext('/FF-JA1117/gps_initial:label')"/>
+      <hint>GPS coordinates can only be collected when outside.</hint>
+    </input>
+    <group ref="/FF-JA1117/repeat_follow">
+      <label ref="jr:itext('/FF-JA1117/repeat_follow:label')"/>
+      <repeat nodeset="/FF-JA1117/repeat_follow">
+        <select1 ref="/FF-JA1117/repeat_follow/new_gps_needed">
+          <label ref="jr:itext('/FF-JA1117/repeat_follow/new_gps_needed:label')"/>
+          <item>
+            <label ref="jr:itext('/FF-JA1117/repeat_follow/new_gps_needed/yes:label')"/>
+            <value>yes</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/FF-JA1117/repeat_follow/new_gps_needed/no:label')"/>
+            <value>no</value>
+          </item>
+        </select1>
+        <input accuracyThreshold="10" ref="/FF-JA1117/repeat_follow/gps_obs">
+          <label ref="jr:itext('/FF-JA1117/repeat_follow/gps_obs:label')"/>
+          <hint>GPS coordinates can only be collected when outside.</hint>
+        </input>
+        <group ref="/FF-JA1117/repeat_follow/male_group">
+          <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group:label')"/>
+          <select appearance="minimal" ref="/FF-JA1117/repeat_follow/male_group/things_doing_m1">
+            <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/things_doing_m1:label')"/>
+            <hint>Indica todas las cosas que ha hecho durante el ultimo miuto.</hint>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/things_doing_m1/fish:label')"/>
+              <value>fish</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/things_doing_m1/play:label')"/>
+              <value>play</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/things_doing_m1/eat:label')"/>
+              <value>eat</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/things_doing_m1/sleep:label')"/>
+              <value>sleep</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/things_doing_m1/other:label')"/>
+              <value>other</value>
+            </item>
+          </select>
+          <select1 ref="/FF-JA1117/repeat_follow/male_group/fish_type">
+            <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/fish_type:label')"/>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/fish_type/hook:label')"/>
+              <value>hook</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/fish_type/net:label')"/>
+              <value>net</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/fish_type/other:label')"/>
+              <value>other</value>
+            </item>
+          </select1>
+          <input ref="/FF-JA1117/repeat_follow/male_group/things_doing_m_other">
+            <label ref="jr:itext('/FF-JA1117/repeat_follow/male_group/things_doing_m_other:label')"/>
+          </input>
+        </group>
+        <group ref="/FF-JA1117/repeat_follow/female_group">
+          <label ref="jr:itext('/FF-JA1117/repeat_follow/female_group:label')"/>
+          <select appearance="minimal" ref="/FF-JA1117/repeat_follow/female_group/things_doing_f">
+            <label ref="jr:itext('/FF-JA1117/repeat_follow/female_group/things_doing_f:label')"/>
+            <hint>Indica todas las cosas que ha hecho durante el ultimo miuto.</hint>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/female_group/things_doing_f/direct_care:label')"/>
+              <value>direct_care</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/female_group/things_doing_f/play:label')"/>
+              <value>play</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/female_group/things_doing_f/eat:label')"/>
+              <value>eat</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/female_group/things_doing_f/sleep:label')"/>
+              <value>sleep</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/FF-JA1117/repeat_follow/female_group/things_doing_f/other:label')"/>
+              <value>other</value>
+            </item>
+          </select>
+          <input ref="/FF-JA1117/repeat_follow/female_group/things_doing_f_other">
+            <label ref="jr:itext('/FF-JA1117/repeat_follow/female_group/things_doing_f_other:label')"/>
+          </input>
+        </group>
+        <input ref="/FF-JA1117/repeat_follow/reminder">
+          <label ref="jr:itext('/FF-JA1117/repeat_follow/reminder:label')"/>
+        </input>
+      </repeat>
+    </group>
+  </h:body>
+</h:html>
