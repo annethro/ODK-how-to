@@ -1,6 +1,6 @@
 Introduction to ODK for affiliates of MPI-EVA Dept of Human Behavior, Ecology, and Culture
 Version 0.1
-Updated Jan-02-2016
+Updated Jan-02-2017
 Maintained by Anne Pisor
 
 A guide for those interested in tablet-based field data collection without intermediate to advanced coding skills in R, an introduction to the Open Data Kit (ODK).
